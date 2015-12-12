@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//da vidim dali moga da editna
 public class ms {
 	static char arr[][] = { { ' ', ' ', ' ' }, 
 							{ ' ', ' ', ' ' }, 
